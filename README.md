@@ -11,7 +11,7 @@ Dans le cadre d'une mission confiée par l'ESN InfoTech Services 86, j'ai dével
 ## Modèle Conceptuel de Données (MCD)
 
 
-![MCD](images/MCD.png)
+Voir le MCD_MediaTek86.drawio
 
 ---
 
