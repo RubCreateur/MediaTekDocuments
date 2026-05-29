@@ -56,16 +56,15 @@ Permet de :
 - Ajouter, modifier et supprimer une absence (avec détection de chevauchement automatique)
 
 ---
+##  Page Portfolio – Mission MediaTekDocuments
 
-## Fonctionnalités couvertes
+**Contexte :** Dans le cadre de ma formation BTS SIO option SLAM,
+j'ai développé pour le réseau MediaTek86 une application de bureau
+en C# (Windows Forms .NET Framework) permettant de gérer le personnel
+des médiathèques et leurs absences.
 
-| Cas d'utilisation | Description | Statut |
-|---|---|---|
-| Se connecter | Authentification SHA256 du responsable | ✅ |
-| Ajouter un personnel | Saisie nom, prénom, tel, mail, service | ✅ |
-| Modifier un personnel | Modification de tous les champs | ✅ |
-| Supprimer un personnel | Suppression avec ses absences (cascade) | ✅ |
-| Afficher les absences | Liste des absences par personnel | ✅ |
-| Ajouter une absence | Avec vérification anti-chevauchement | ✅ |
-| Modifier une absence | Avec vérification anti-chevauchement | ✅ |
-| Supprimer une absence | Suppression avec confirmation | ✅ |
+---
+
+**Lien dépôt GitHub :** https://github.com/RubCreateur/MediaTekDocuments
+
+**Script SQL complet :** disponible dans le dossier bdd/ du dépôt
